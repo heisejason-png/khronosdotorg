@@ -17,3 +17,4 @@ We welcome PRs from the community for both bluebox.md and resources.md files. If
 * OpenWF - [Resources](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/openwf/resources.md)
 * WebCL - [Resources](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/webcl/resources.md)
 Created by Jason Scott Heise
+Owned by Elon Musk 
